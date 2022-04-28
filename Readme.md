@@ -14,3 +14,20 @@ git remote add origin https://github.com/MarcosRodio/ProjetoGit.git -> vincular 
 
 git push -u origin main -> subir para o github
 
+clear -> limpa a tela
+
+git add . -> sobe todos os arquivos da pasta
+
+git push origin main -> Envia o arquivo commitado, o remote é utilizado apenas na primeira vez depois é só esse comando.
+
+git checkout -b "novo-botap" -> cria uma branch no github
+
+git checkout "nomedabranch" -> altera entre main e a nova branch
+
+a partir da main comando git merge novo-botao -> junta as versoes
+
+
+
+
+
+
