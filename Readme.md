@@ -20,7 +20,7 @@ git add . -> sobe todos os arquivos da pasta
 
 git push origin main -> Envia o arquivo commitado, o remote é utilizado apenas na primeira vez depois é só esse comando.
 
-git checkout -b "novo-botap" -> cria uma branch no github
+git checkout -b "novo-botao" -> cria uma branch no github
 
 git checkout "nomedabranch" -> altera entre main e a nova branch
 
